@@ -28,7 +28,7 @@ app.css.append_css({
 
 colors = {'background': '#111111', 'text': '#7FDBFF'}
 
-app.layout = html.Div([
+app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
 	html.H1(
 		children='LAST N DAYS OF BITCOIN',
 		style={
