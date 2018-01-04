@@ -1,0 +1,1 @@
+Special thanks to dursk at https://github.com/dursk/bitcoin-price-api.  Price API comes from him, I just made the dash app.
